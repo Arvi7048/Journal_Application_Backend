@@ -24,7 +24,7 @@ public class UserService {
     private static final PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
 
 
-   // private static final Logger logger = LoggerFactory.getLogger(UserService.class);// only one instance for this class
+    private static final Logger logger = LoggerFactory.getLogger(UserService.class);// only one instance for this class
 
 
     public boolean saveNewUser(User user){
