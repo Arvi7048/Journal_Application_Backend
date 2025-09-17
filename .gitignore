@@ -16,22 +16,21 @@ src/main/resources/application.properties
 .sts4-cache
 *.yml
 *.log
-<<<<<<< HEAD
 *.properties
-=======
->>>>>>> 36896d5c5052045ae4af2ea3cffe6f5f096298f2
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 /htmlReport
+
 ### NetBeans ###
 /nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+ /nbbuild/
+ /dist/
+ /nbdist/
+ /.nb-gradle/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
