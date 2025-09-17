@@ -5,6 +5,8 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
+src/main/resources/application.properties
+
 .apt_generated
 .classpath
 .factorypath
@@ -14,7 +16,10 @@ target/
 .sts4-cache
 *.yml
 *.log
+<<<<<<< HEAD
 *.properties
+=======
+>>>>>>> 36896d5c5052045ae4af2ea3cffe6f5f096298f2
 ### IntelliJ IDEA ###
 .idea
 *.iws
